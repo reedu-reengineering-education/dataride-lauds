@@ -5,7 +5,7 @@ DATA-RIDE resources from the LAUDS Factories programme in Nancy: Blueprint, work
 
 The resources below guide users through assembling and setting up the DATA-RIDE senseBox:bike configuration with two lateral distance sensors, mounting it on a bicycle, configuring the application, and processing the collected data. They bring together the hardware guides, firmware, application and analysis scripts used in the Nancy campaign.
 
-## Assembly, setup and data processing
+## Technology: Assembly, setup and data processing
 
 1. **Prepare the enclosure:** access the [enclosure files](https://cloud.reedu.de/s/xwMSJnCnys7NBzR).
 
