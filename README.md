@@ -35,4 +35,4 @@ Local organisations, cycling advocates and community groups can adapt the DATA-R
 
 ### Adapting DATA-RIDE to another city
 
-Use the Visual Toolkit to choose activities that fit your local resources and priorities, from mapping local partners and setting up sensors to interpreting results and planning advocacy. Adapt the sequence to your context while keeping the link between citizen-generated evidence, collective learning and local action. [DATA-RIDE Visual Toolkit](DATA-RIDE%20-%20Toolkit.pdf)
+Use the Visual Toolkit to choose activities that fit your local resources and priorities, from mapping local partners and setting up sensors to interpreting results and planning advocacy. Adapt the sequence to your context while keeping the link between citizen-generated evidence, collective learning and local action.
